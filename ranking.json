@@ -1,0 +1,374 @@
+{
+    "3points": [
+        {
+            "pos": 1,
+            "player": "Stephen Curry",
+            "team": "GSW",
+            "total": 5
+        },
+        {
+            "pos": 2,
+            "player": "CJ McCollum",
+            "team": "POR",
+            "total": 4.8
+        },
+        {
+            "pos": 3,
+            "player": "Damian Lillard",
+            "team": "POR",
+            "total": 4
+        },
+        {
+            "pos": 4,
+            "player": "Buddy Hield",
+            "team": "SAC",
+            "total": 3.9
+        },
+        {
+            "pos": 5,
+            "player": "Paul George",
+            "team": "LAC",
+            "total": 3.8
+        },
+        {
+            "pos": 6,
+            "player": "Zach LaVine",
+            "team": "CHI",
+            "total": 3.6
+        },
+        {
+            "pos": 7,
+            "player": "Donovan Mitchell",
+            "team": "UTA",
+            "total": 3.4
+        },
+        {
+            "pos": 7,
+            "player": "Terry Rozier",
+            "team": "CHA",
+            "total": 3.4
+        },
+        {
+            "pos": 9,
+            "player": "Malik Beasley",
+            "team": "MIN",
+            "total": 3.4
+        },
+        {
+            "pos": 10,
+            "player": "Duncan Robinson",
+            "team": "MIA",
+            "total": 3.3
+        }
+    ],
+    "points": [
+        {
+            "pos": 1,
+            "player": "Bradley Beal",
+            "team": "WAS",
+            "total": 33.1
+        },
+        {
+            "pos": 2,
+            "player": "Stephen Curry",
+            "team": "GSW",
+            "total": 30.1
+        },
+        {
+            "pos": 3,
+            "player": "Joel Embiid",
+            "team": "PHI",
+            "total": 29.6
+        },
+        {
+            "pos": 4,
+            "player": "Damian Lillard",
+            "team": "POR",
+            "total": 29.2
+        },
+        {
+            "pos": 5,
+            "player": "Luka Doncic",
+            "team": "DAL",
+            "total": 29.1
+        },
+        {
+            "pos": 6,
+            "player": "Kevin Durant",
+            "team": "BKN",
+            "total": 29
+        },
+        {
+            "pos": 7,
+            "player": "Kyrie Irving",
+            "team": "BKN",
+            "total": 28.3
+        },
+        {
+            "pos": 8,
+            "player": "Zach LaVine",
+            "team": "CHI",
+            "total": 28.2
+        },
+        {
+            "pos": 9,
+            "player": "Giannis Antetokounmpo",
+            "team": "MIL",
+            "total": 28
+        },
+        {
+            "pos": 10,
+            "player": "Kawhi Leonard",
+            "team": "LAC",
+            "total": 26.7
+        }
+    ],
+    "assistants": [
+        {
+            "pos": 1,
+            "player": "James Harden",
+            "team": "BKN",
+            "total": 11.3
+        },
+        {
+            "pos": 2,
+            "player": "Luka Doncic",
+            "team": "DAL",
+            "total": 9.4
+        },
+        {
+            "pos": 3,
+            "player": "Russell Westbrook",
+            "team": "WAS",
+            "total": 9.4
+        },
+        {
+            "pos": 4,
+            "player": "Trae Young",
+            "team": "ATL",
+            "total": 9.3
+        },
+        {
+            "pos": 5,
+            "player": "Nikola Jokic",
+            "team": "DEN",
+            "total": 8.7
+        },
+        {
+            "pos": 6,
+            "player": "Draymond Green",
+            "team": "GSW",
+            "total": 8.3
+        },
+        {
+            "pos": 7,
+            "player": "Chris Paul",
+            "team": "PHX",
+            "total": 8.2
+        },
+        {
+            "pos": 8,
+            "player": "Ben Simmons",
+            "team": "PHI",
+            "total": 8
+        },
+        {
+            "pos": 9,
+            "player": "Ja Morant",
+            "team": "MEM",
+            "total": 8
+        },
+        {
+            "pos": 10,
+            "player": "LeBron James",
+            "team": "LAL",
+            "total": 8
+        }
+    ],
+    "rebounds": [
+        {
+            "pos": 1,
+            "player": "Clint Capela",
+            "team": "ATL",
+            "total": 14
+        },
+        {
+            "pos": 2,
+            "player": "Andre Drummond",
+            "team": "CLE",
+            "total": 13.5
+        },
+        {
+            "pos": 3,
+            "player": "Rudy Gobert",
+            "team": "UTA",
+            "total": 13.2
+        },
+        {
+            "pos": 4,
+            "player": "Deandre Ayton",
+            "team": "PHX",
+            "total": 12.3
+        },
+        {
+            "pos": 5,
+            "player": "Nikola Jokic",
+            "team": "DEN",
+            "total": 11.5
+        },
+        {
+            "pos": 6,
+            "player": "Giannis Antetokounmpo",
+            "team": "MIL",
+            "total": 11.5
+        },
+        {
+            "pos": 7,
+            "player": "Domantas Sabonis",
+            "team": "IND",
+            "total": 11.4
+        },
+        {
+            "pos": 7,
+            "player": "Nikola Vucevic",
+            "team": "ORL",
+            "total": 11.4
+        },
+        {
+            "pos": 9,
+            "player": "Karl-Anthony Towns",
+            "team": "MIN",
+            "total": 11.3
+        },
+        {
+            "pos": 10,
+            "player": "Jonas Valanciunas",
+            "team": "MEM",
+            "total": 11.1
+        }
+    ],
+    "steals": [
+        {
+            "pos": 1,
+            "player": "OG Anunoby",
+            "team": "TOR",
+            "total": 2.1
+        },
+        {
+            "pos": 2,
+            "player": "Larry Nance Jr.",
+            "team": "CLE",
+            "total": 1.9
+        },
+        {
+            "pos": 3,
+            "player": "Jrue Holiday",
+            "team": "MIL",
+            "total": 1.9
+        },
+        {
+            "pos": 4,
+            "player": "Jimmy Butler",
+            "team": "MIA",
+            "total": 1.9
+        },
+        {
+            "pos": 5,
+            "player": "Marcus Smart",
+            "team": "BOS",
+            "total": 1.8
+        },
+        {
+            "pos": 6,
+            "player": "T.J. McConnell",
+            "team": "IND",
+            "total": 1.8
+        },
+        {
+            "pos": 7,
+            "player": "Kawhi Leonard",
+            "team": "LAC",
+            "total": 1.8
+        },
+        {
+            "pos": 8,
+            "player": "Fred VanVleet",
+            "team": "TOR",
+            "total": 1.7
+        },
+        {
+            "pos": 9,
+            "player": "Ben Simmons",
+            "team": "PHI",
+            "total": 1.7
+        },
+        {
+            "pos": 10,
+            "player": "Robert Covington",
+            "team": "POR",
+            "total": 1.7
+        }
+    ],
+    "blocks": [
+        {
+            "pos": 1,
+            "player": "Myles Turner",
+            "team": "IND",
+            "total": 3.5
+        },
+        {
+            "pos": 2,
+            "player": "Rudy Gobert",
+            "team": "UTA",
+            "total": 2.8
+        },
+        {
+            "pos": 3,
+            "player": "Clint Capela",
+            "team": "ATL",
+            "total": 2.2
+        },
+        {
+            "pos": 4,
+            "player": "Karl-Anthony Towns",
+            "team": "MIN",
+            "total": 2.1
+        },
+        {
+            "pos": 5,
+            "player": "Chris Boucher",
+            "team": "TOR",
+            "total": 2
+        },
+        {
+            "pos": 5,
+            "player": "Kostas Antetokounmpo",
+            "team": "LAL",
+            "total": 2
+        },
+        {
+            "pos": 5,
+            "player": "Nerlens Noel",
+            "team": "NYK",
+            "total": 2
+        },
+        {
+            "pos": 8,
+            "player": "Anthony Davis",
+            "team": "LAL",
+            "total": 1.8
+        },
+        {
+            "pos": 9,
+            "player": "Jarrett Allen",
+            "team": "CLE",
+            "total": 1.6
+        },
+        {
+            "pos": 10,
+            "player": "Richaun Holmes",
+            "team": "SAC",
+            "total": 1.6
+        }
+    ]
+}
